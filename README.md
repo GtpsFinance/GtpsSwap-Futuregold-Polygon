@@ -1,6 +1,6 @@
 # GtpsSwap Futuregold Polygon template
 
-### Rinkeby
+### Mumbai
 
 - Factory: 0xae53b10373744870B528735BE0d26F2938C2d4e9
 - Router: 0xf1192cc4dffb4a96d938cca17cc1bd36787e2824
