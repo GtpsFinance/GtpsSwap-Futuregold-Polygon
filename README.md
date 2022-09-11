@@ -1,7 +1,7 @@
-# CoolSwap template
+# GtpsSwap Futuregold Polygon template
 
 ### Rinkeby
 
-- Factory: 0x6Bd5A1A63ffF10De3c6B7C667040E9AE1B47fDf2
-- Router: 0xA4E1f3fD10E2397f58926E215Ed331D7cDA14056
-- Pair hash: 0xaf88dd15a55596feb9d67243c727bfd6144af12453963809bc91f0cfcf8241bc
+- Factory: 0xae53b10373744870B528735BE0d26F2938C2d4e9
+- Router: 0xf1192cc4dffb4a96d938cca17cc1bd36787e2824
+- Pair hash: 0xdb7f014a07ca8d382c476aa6d96be89d7b6df4a90449a88b4d75935b9f5df523

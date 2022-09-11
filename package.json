@@ -112,5 +112,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- Factory: 0xae53b10373744870B528735BE0d26F2938C2d4e9\r - Router: 0xf1192cc4dffb4a96d938cca17cc1bd36787e2824\r - Pair hash: 0xdb7f014a07ca8d382c476aa6d96be89d7b6df4a90449a88b4d75935b9f5df523",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GtpsFinance/GtpsSwap-Futuregold-Polygon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/GtpsFinance/GtpsSwap-Futuregold-Polygon/issues"
+  },
+  "homepage": "https://github.com/GtpsFinance/GtpsSwap-Futuregold-Polygon#readme"
 }
